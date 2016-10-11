@@ -45,6 +45,9 @@ class Secure_strings{
               return $decrypted;
         }
 } 
+/**
+* This is an example about how to use it
+**/
 $hash_string_secure=new Secure_strings();
 $encrypt_string= $hash_string_secure->encrypt_strings('Entrypted');
 echo $encrypt_string.'<br>';
