@@ -8,11 +8,11 @@ Usage:
 
 1.Initiate the object with a construct wherever name that you like.
 
-2.Define a variable for call the method: encrypt_strings($string) with an string by parameter. 
+2.Define a variable for call the method: encrypt_strings($string) with the string that you like encrypt by parameter. 
 
-3.After print the variable defined above,copy the hash from the browser.
+3.After print the variable defined above,make sure that you copied from the browser or saved the hash into a variable.
 
-4.Then define another variable and paste the hash copied for passing a parameter for the method decrypt_strings($hash_generated).
+4.Then define another variable and paste or push the hash that you copied or saved for passing by parameter for decrypt with the method decrypt_strings($hash_generated).
 
-5.Finally print again the last variable,defined above.
+5.Finally print again the last variable,defined above for watching the hash decrypted.
 
