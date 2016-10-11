@@ -46,7 +46,8 @@ class Secure_strings{
         }
 } 
 /**
-* This is an example about how to use it
+* This is an example about how to use this class
+* You should to change the parameters for using
 **/
 $hash_string_secure=new Secure_strings();
 $encrypt_string= $hash_string_secure->encrypt_strings('Entrypted');
