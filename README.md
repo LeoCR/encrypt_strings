@@ -1,4 +1,4 @@
-# Encrypt and Decrypt String 
+# Encrypt and Decrypt Strings
 
 
 
